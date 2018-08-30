@@ -66,7 +66,7 @@
 #toggle span:before {
   width: 100%;
   height: 5px;
-  background-color: var(--green);
+  background-color: var(--blue);
   transition: all 0.3s;
   backface-visibility: hidden;
   border-radius: 2px;
